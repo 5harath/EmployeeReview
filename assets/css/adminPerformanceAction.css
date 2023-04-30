@@ -1,0 +1,37 @@
+/* design navigation bar */
+.nav{
+    padding:15px;
+    background-color: #800020;
+    margin-top: -10px;
+    width: 100%;
+    margin-left: -10px;
+  }
+  .nav > a{
+      font-size: 20px;
+      color: aliceblue;
+      padding: 8px;
+      text-decoration: none;
+  }
+#actionData{
+    margin-top: 5%;
+    text-align: center;
+}
+#actionData{
+    display: flex;
+}
+#addFeedback , #updateFeedback{
+    width: 50%;
+}
+#addFeedback{
+    border-right: 1px dashed black;
+}
+input{
+    padding: 5px;
+    margin: 4px;
+    font-size: 15px;
+    width: 70%;
+}
+#button{
+    padding: 3px;
+    width: 20%;
+}
