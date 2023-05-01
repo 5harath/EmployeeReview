@@ -19,52 +19,52 @@ Then Click On Submit Button
 the website has been hosted here https://spotless-sombrero-eel.cyclic.app/
 
 ## Folder stucture
--   .gitignore
--   index.js
--   package-lock.json
--   package.json
--   ReadMe.md
--   
+   .gitignore
+   index.js
+   package-lock.json
+   package.json
+   ReadMe.md
+   
 +---assets
--   +---css
--           adminEmployee.css
--           adminPerformance.css
--           adminPerformanceAction.css
--           employeedashboard.css
--           layout.css
--           signin.css
--           signup.css
--           submitfeedback.css
--           
+   +---css
+           adminEmployee.css
+           adminPerformance.css
+           adminPerformanceAction.css
+           employeedashboard.css
+           layout.css
+           signin.css
+           signup.css
+           submitfeedback.css
+           
 +---config
--       environment.js
--       flashMessageMiddleware.js
--       mongoose.js
--       passport-local-strategy.js
--       
+       environment.js
+       flashMessageMiddleware.js
+       mongoose.js
+       passport-local-strategy.js
+       
 +---controller
--       admin.js
--       adminAction.js
--       employee.js
--       index.js
--       
+       admin.js
+       adminAction.js
+       employee.js
+       index.js
+       
 +---models
--       admin.js
--       employee.js
--       performance.js
--       
+       admin.js
+       employee.js
+       performance.js
+       
 +---routes
--       adminEmployee.js
--       adminPerformanceReview.js
--       employee.js
--       index.js
--       
+       adminEmployee.js
+       adminPerformanceReview.js
+       employee.js
+       index.js
+       
 +---views
--       adminEmployee.ejs
--       adminPerformance.ejs
--       adminPerformanceAction.ejs
--       employeeDashboard.ejs
--       layout.ejs
--       signIn.ejs
--       signUp.ejs
--       submitFeedback.ejs
+        adminEmployee.ejs
+        adminPerformance.ejs
+        adminPerformanceAction.ejs
+        employeeDashboard.ejs
+        layout.ejs
+        signIn.ejs
+        signUp.ejs
+        submitFeedback.ejs
